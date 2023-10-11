@@ -1,0 +1,64 @@
+body{
+    background-color: blueviolet;
+}
+.conteneur{
+    
+    background-color: lightblue;
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50x;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgba(203, 237, 10, 0.82) rgba(203, 237, 10, 0.82) rgba(5, 125, 162, 0.624) rgba(5, 125, 162, 0.624);
+    border-width: 10px;
+    
+}
+.col1{
+    font-size: 50px;
+    color: rgb(210, 197, 21);
+    font-family: Tempus Sans ITC;
+    border-bottom: solid;
+}
+.col2{
+    font-size: 50px;
+    color: cornflowerblue;
+    font-family: Tempus Sans ITC;
+    border-bottom: solid;
+}
+.span1{
+   text-align: right;
+   padding-top: 4%;
+   padding-right: 4%;
+}
+.sel{
+    text-align: center;
+    font-size: 50px;
+    font-family: Lucida Calligraphy;
+    padding-top: 10%;
+}
+.sel_2{
+    text-align: center;
+    font-size: 50px;
+    font-family: Lucida Calligraphy;
+}
+.sel_3{
+    text-align: center;
+    font-size: 50px;
+    font-family: Lucida Calligraphy;
+    padding-bottom: 10%;
+}
+.lien{
+    font-size: 20px;
+    border: none;
+   
+}
+.clic{
+  text-align: center;
+ padding-bottom: 10px;
+ 
+}
+a{
+    
+}
